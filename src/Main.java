@@ -5,6 +5,8 @@ public class Main {
     ArrayList<String> cars = new ArrayList<String>();
     cars.add("Volvo");
     cars.add("BMW");
+    cars.add("Audi");
+    cars.add("Opel");
     
     System.out.println(cars);
   }
